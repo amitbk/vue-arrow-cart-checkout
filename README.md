@@ -1,5 +1,8 @@
 # arrow-ui
 
+## LIVE
+[Click to check on Netlify](https://vue-arrow-cart-checkout.netlify.app)
+
 ## Project setup
 ```
 npm install
